@@ -12,3 +12,20 @@ body {
     width: 100%;
     height: auto;
 }
+.img-responsive{
+    width: 500;
+    height: 300;
+}
+
+iframe{
+    width: 400;
+    margin-left: 300;
+}
+
+#contact{
+text-align: left;
+}
+
+#contact h1{
+    margin-left: 100;
+}
